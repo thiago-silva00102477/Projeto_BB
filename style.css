@@ -1,0 +1,46 @@
+.topo {
+    border: 4px solid blue;
+    padding: 20px;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+    width: 80%;
+}
+
+.banner {
+    border: 4px solid red;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+}
+
+.texto {
+    border: 4px solid green;
+    padding: 20px;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+    width: 80%;
+}
+
+.videos {
+    border: 4px solid orange;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+}
+
+.musicas {
+    border: 4px solid purple;
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+}
+
+.texto-superior-esquerdo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+    padding: 5px;
+}
